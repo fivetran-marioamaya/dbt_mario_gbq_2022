@@ -1,0 +1,7 @@
+packages:
+
+  - package: fivetran/hubspot
+    version: 0.6.1
+
+  - package: fivetran/fivetran_log
+    version: 0.6.3
